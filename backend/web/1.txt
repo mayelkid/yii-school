@@ -1,0 +1,1 @@
+{"id":"","choosetaskid":"1","coursegroupids":["201800001","201800002"],"coursegroupname":""}
